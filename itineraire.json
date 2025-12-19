@@ -1,0 +1,108 @@
+{
+  "pays": "Albanie",
+  "drapeau": "🇦🇱",
+  "symbole": "🦅",
+  "titre": "L'Épopée de Pierre à Gjirokastër",
+  "budget_total": "350€",
+  "duree": "1 jour",
+  "date_debut": "2026-01-07",
+  "date_fin": "2026-01-07",
+  "temps_vol": "3h depuis Paris",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🏰",
+      "titre": "Gjirokastër: Immersion dans la Ville de Pierre",
+      "legende": "Bienvenue à Gjirokastër, la \"Ville de Pierre\", classée au patrimoine mondial de l'UNESCO. Pour cette journée unique, nous avons optimisé votre temps pour une immersion complète. Après votre arrivée matinale ou la veille, préparez-vous à explorer ses ruelles pavées, son imposante forteresse et ses maisons ottomanes qui racontent des siècles d'histoire. Chaque pas est une découverte dans ce musée à ciel ouvert.",
+      "lieu": "Gjirokastër",
+      "activites": [
+        "🏰 <strong>Visite du Château de Gjirokastër</strong>: Explorez cette forteresse massive qui domine la ville, offrant des vues panoramiques spectaculaires sur la vallée du Drin. Découvrez son musée des Armes et ses cachots, témoins d'un passé riche et parfois sombre de la région.",
+        "🏘️ <strong>Découverte des maisons ottomanes et du Vieux Bazar</strong>: Flânez dans les ruelles sinueuses pour admirer l'architecture unique des maisons-tours, comme la célèbre Maison Zekate. Le Vieux Bazar est l'endroit idéal pour dénicher de l'artisanat local et s'imprégner de l'ambiance authentique.",
+        "🍽️ <strong>Dégustation culinaire et ambiance locale</strong>: Savourez un déjeuner ou un dîner traditionnel dans une taverne locale, goûtant aux saveurs authentiques de la cuisine albanaise. Ne manquez pas le qifqi, une spécialité locale, pour une véritable immersion gustative."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Gjirokastër est entièrement construite en pierre, des murs aux toits. Prévoyez des chaussures confortables pour arpenter ses rues pentues et pavées."
+        },
+        {
+          "symbole": "UNESCO",
+          "titre": "Patrimoine Mondial",
+          "texte": "La ville est inscrite au patrimoine mondial de l'UNESCO pour son architecture ottomane bien préservée, un exemple rare de ville-musée."
+        },
+        {
+          "symbole": "💰",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie est le Lek albanais (ALL). Il est conseillé d'avoir un peu de liquide pour les petits commerces et les marchés locaux."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "200€/pers (Vol A/R Paris-Tirana en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "50€/pers (Transfert A/R Tirana-Gjirokastër en bus/taxi partagé et transports locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "35€/pers (Déjeuner et dîner dans des tavernes locales)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "50€/pers (1 nuit en hôtel 3 étoiles, pour permettre une journée complète d'activités)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "15€/pers (Entrées au château et musées)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de avril, mai, septembre et octobre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Gjirokastër compte environ 28 000 habitants. L'Albanie est un pays des Balkans avec une riche histoire et des paysages variés, souvent méconnu.",
+      "symbole": "ℹ️"
+    },
+    {
+      "titre": "Gjirokastër est surnommée la \"Ville de Pierre\" en raison de son architecture ottomane unique et de ses toits en lauze. C'est aussi la ville natale de l'écrivain Ismail Kadare.",
+      "symbole": "💡"
+    },
+    {
+      "titre": "La langue officielle est l'albanais. L'anglais est parlé dans les zones touristiques, et l'italien est également courant en raison de la proximité géographique.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Le climat en janvier est frais, avec des températures moyennes autour de 5-10°C. Prévoyez des vêtements chauds et imperméables, car des averses sont possibles.",
+      "symbole": "☔"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations sur l'Albanie",
+      "titre": "Albania.al - Tourisme officiel",
+      "url": "https://albania.al/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo pour Gjirokastër",
+      "titre": "Météo Gjirokastër",
+      "url": "https://www.accuweather.com/fr/al/gjirokaster/227530/weather-forecast/227530",
+      "symbole": "🌤️"
+    }
+  ]
+}
